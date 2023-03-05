@@ -1,0 +1,49 @@
+#hometop{
+    background-color: rgb(16, 48, 37);
+    width: auto;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+#center{
+    text-align: center;
+}
+
+#content{
+    width:auto;
+    height: auto;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px ;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+
+
+hr {
+    width:50%;
+    margin:auto;
+    border-width: 10px;
+}
+
+#bodybg{
+  /* background-image: url('./assets/images/22d.jpg'); */
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+
+}
+
+
+#name{
+    padding: 150px;
+    color: #137480;
+    font-size: 60px;
+}
+

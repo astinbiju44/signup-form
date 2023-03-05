@@ -1,0 +1,12 @@
+<div class="container text-center" id="homebody">
+  <div class="row" id="gap" >
+    <div class="col" *ngFor="let item of districts" id="gap">
+      <div class="card" style="width: 18rem;">
+        <img src="../../../assets/disimg/{{item.image}}" class="card-img-top" alt="...">
+        <div class="card-body">
+          <p id="phover" (click)="goto(item.name)">{{item.name}}</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

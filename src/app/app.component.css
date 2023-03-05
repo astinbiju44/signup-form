@@ -1,0 +1,10 @@
+#imagebg{
+  background-image: url('../assets/images/22.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+}
+
